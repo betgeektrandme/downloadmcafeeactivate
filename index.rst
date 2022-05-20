@@ -4,7 +4,7 @@ McAfee.com/Activate - Enter McAfee Activation Code
 
 
 ##################
- Click Here For Download McAfee 
+ `Click Here <http://mcafee.activation.s3-website-us-west-1.amazonaws.com>`_ For `Download McAfee <http://mcafee.activation.s3-website-us-west-1.amazonaws.com>`_ 
 ##################
 
 
